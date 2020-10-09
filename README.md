@@ -1,5 +1,6 @@
 # TaskManager
-Program for managing a list of tasks to do
+Program for managing a list of tasks to do.
+Tasks are contained in .csv file named "tasks"
 
 
 ## Packages used:
